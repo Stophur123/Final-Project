@@ -13,4 +13,4 @@ You can generate an input file to test by running createFile.c
 	Compile: gcc createFile.c -o createFile
 	Run: ./createFile <file_name>.bin
 	Opens the file specified in "./createFile <file_name>.bin"
-	Create 2 million 100-byte records (randomized)
+	Creates 2 million 100-byte records (randomized)
